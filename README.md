@@ -51,9 +51,6 @@ Auto video splitting tool for creators
 |----------|-----------|----------|
 | ![](media/front_view.png) | ![](media/about.png) | ![](media/feedback.png) |
 
-> (Optional) Replace with animated GIF preview:  
-> `![Preview](media/splitkit_demo.gif)`
-
 ---
 
 ## 🖥️ System Requirements
