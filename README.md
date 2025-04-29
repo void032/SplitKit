@@ -128,7 +128,7 @@ Have a feature idea or found a bug?
 **Bundled Tools:**
 
 - **FFmpeg / ffprobe**: Licensed under  
-  `📜 [INSERT CORRECT LICENSE: LGPL v2.1 / LGPL v3 / GPL v3]`  
+  `📜 [ffmpeg_LICENSE.txt]`  
   License files included in install directory.
 
 ---
