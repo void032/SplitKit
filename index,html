@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SplitKit - Auto Video Splitter</title>
+  <style>
+    body {
+      background: #0f0f0f;
+      color: #f0f0f0;
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+    }
+    a.button {
+      margin-top: 2rem;
+      padding: 1rem 2rem;
+      background-color: #ff0077;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+    .footer {
+      margin-top: 4rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎬 SplitKit</h1>
+  <p>Automatically split long videos into multiple short-form clips. Perfect for content creators working with YouTube Shorts, Reels, and TikToks.</p>
+  <a href="https://github.com/YOUR_USERNAME/SplitKit/releases/latest/download/SplitKit_1.1.0_Installer.exe" class="button">⬇ Download for Windows</a>
+  <div class="footer">
+    Created by Void • <a href="https://buymeacoffee.com/void1" style="color:#ff0077;">Buy me a coffee ☕</a>
+  </div>
+</body>
+</html>
