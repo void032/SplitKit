@@ -1,0 +1,44 @@
+SplitKit Software License Agreement
+Effective Date: April 29, 2025
+Software: SplitKit
+Owner: Void ("Licensor")
+
+1. Ownership
+   This Software and all associated intellectual property rights are and shall remain the sole and exclusive property of the Licensor. You are granted a limited, non-exclusive, non-transferable license to install and use the Software solely for its intended purpose of video clipping under the terms and conditions of this Agreement.
+
+2. Restrictions
+   You are expressly prohibited from:
+   - Modifying, adapting, translating, reverse engineering, decompiling, or disassembling the Software.
+   - Selling, renting, leasing, sublicensing, or distributing the Software or any of its copies.
+   - Removing, altering, or obscuring any copyright, trademark, or proprietary notices.
+   - Using the Software for any unlawful or unauthorized purpose.
+   - Falsely representing yourself as the creator or owner of the Software.
+3. No Ownership Transfer
+   This license does not transfer any ownership rights. All rights not expressly granted are reserved by the Licensor.
+
+4. Termination
+   This license will terminate automatically if you breach any part of this Agreement. Upon termination, you must immediately stop using the Software and destroy all copies.
+
+5. Disclaimer of Warranties
+   The Software is provided "as is", without warranties of any kind, either express or implied, including but not limited to merchantability or fitness for a particular purpose.
+
+6. Limitation of Liability
+   In no event shall the Licensor be liable for any damages, including loss of data, profit, or business interruption arising from the use of or inability to use the Software.
+
+7. Permissions & Contact
+   If you wish to request permissions, modifications, integrations, or any use outside the scope of this license, please provide full details through the feedback page:
+
+Include:
+
+- Who you are
+- What you wish to do with the software
+- Why it's needed
+- Any other relevant details
+
+The Licensor will review your request and respond accordingly. No assumptions of permission are to be made without explicit written approval.
+
+---
+
+By installing, copying, or using SplitKit, you acknowledge that you have read, understood, and agree to be bound by the terms of this License Agreement.
+
+© 2025 Void. All rights reserved.
