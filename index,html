@@ -46,7 +46,7 @@
 <body>
   <h1>🎬 SplitKit</h1>
   <p>Automatically split long videos into multiple short-form clips. Perfect for content creators working with YouTube Shorts, Reels, and TikToks.</p>
-  <a href="https://github.com/YOUR_USERNAME/SplitKit/releases/latest/download/SplitKit_1.1.0_Installer.exe" class="button">⬇ Download for Windows</a>
+  <a href="https://github.com/void032/SplitKit/releases/latest/download/SplitKit_1.1.0_Installer.exe" class="button">⬇ Download for Windows</a>
   <div class="footer">
     Created by Void • <a href="https://buymeacoffee.com/void1" style="color:#ff0077;">Buy me a coffee ☕</a>
   </div>
